@@ -462,3 +462,5 @@ class AboutUsState extends State<AboutUs> {
     );
   }
 }
+
+//this page was designed by me, Faruque Aziz
